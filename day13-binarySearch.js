@@ -18,3 +18,4 @@ function binarySearch(sortedArr, target) {
 
 console.log(binarySearch([1, 3, 5, 7, 9, 11, 13], 11));
 console.log(binarySearch([1, 3, 5, 7, 9, 11, 13], 3));
+console.log(binarySearch([1, 3, 5, 7, 9, 11, 13], 7));
